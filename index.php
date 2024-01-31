@@ -28,7 +28,7 @@
     <div class="row">
         <div class="col-md-12 text-center">
             <h1 class="mb-4">Panel Ejecutivo IDEAL</h1>
-            <button class="btn btn-primary btn-ejecutivo"><a href="/importcsv/" class="text-white">ALTAS Y BAJAS</a></button>
+            <button class="btn btn-primary btn-ejecutivo"><a href="/http://34.18.34.16/ideal2/" class="text-white">ALTAS Y BAJAS</a></button>
             <button class="btn btn-success btn-ejecutivo">% DE ENROLAMIENTO</button>
             <button class="btn btn-info btn-ejecutivo">% CON ASIGNACIÓN Y % SIN ASIGNACIÓN DE HORARIOS</button>
             <button class="btn btn-warning btn-ejecutivo">% DE LECTORES ACTIVOS</button>
